@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">test-svara</string>
+    <string name="username">Username/Email</string>
+    <string name="password">Password</string>
+    <string name="btnsignin">Sign in</string>
+    <string name="signinopsi">Sign in with</string>
+    <string name="havenoacc">Dont have an account</string>
+    <string-array name="home">
+        <item>Playlist</item>
+        <item>Music</item>
+        <item>Artist</item>
+        <item>Radio</item>
+        <item>Radio Content</item>
+        <item>Album</item>
+        <item>Uploaded Content</item>
+    </string-array>
+</resources>
